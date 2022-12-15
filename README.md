@@ -22,14 +22,15 @@ Based on the last two languages, I have created a couple of simple gaming apps. 
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="64" height="64"/>&nbsp;
 </p>
 
-## Interesting educational projects
+## Educational projects
 ### Educational (course) project (C#) - Algorith Li
 As part of studying the course "Programming and software of information technologies", I selected and formulated the topic of the course project: "Finding the shortest path in a random maze."
 
 In the course of this work, I have studied the theoretical aspects of finding the shortest path in a maze, where not only classical algorithms for generating mazes themselves, but also algorithms for finding the shortest path are considered.
 Among the algorithms considered for finding the shortest path, a wave algorithm was chosen, which is also referred to in the literature as the Lie algorithm.
 
-![Lee_algorithm](https://user-images.githubusercontent.com/61186198/162254905-3b3d6b8e-c6a0-41b5-baba-2f6588a74c96.png)
+![screeng](https://user-images.githubusercontent.com/61186198/207915084-93d93d08-0111-4b81-b107-dba8861aa1b1.png)
+![Screenshot](https://user-images.githubusercontent.com/61186198/207913961-6b1d43b0-745b-42f4-82f5-c1ec6c64ffff.png)
 
 It was proposed to implement this algorithm in object-oriented languages such as Python, C++, C#.
 I chose the C# programming language, since in my opinion this language allowed me to implement it in a more convenient and concise form, unlike "hard" such as C++. Python was not considered due to the fact that this moment was not studied well, like C#.
@@ -41,7 +42,20 @@ The coursework itself is located [here](https://cloud.mail.ru/public/pY23/NKTNW6
 
 Within the framework of the diplom project, it was proposed to improve the work of the advisory and educational center "Path to Health", which consisted in the development of an online store on any content management system (CMS). Among the huge list of CMS systems, CMS WordPress was chosen, which has a large number of various plugins for various purposes.
 
+#### The main page of the website:
 ![ftfy](https://user-images.githubusercontent.com/61186198/206910983-3f5fc3b7-b540-4519-8ef4-1115658bd768.png)
+
+#### List of products:
+![fgf](https://user-images.githubusercontent.com/61186198/207916579-f9df4285-3f40-41c8-8d9e-3ce3ffba4486.png)
+
+#### Shopping cart:
+![ghhf](https://user-images.githubusercontent.com/61186198/207916614-3a127f26-548f-4215-aa42-17c8205fbea1.png)
+
+#### Total order amount:
+![rhurj](https://user-images.githubusercontent.com/61186198/207916649-0690ab0e-0ff2-4868-b90b-ad0c14c543ba.png)
+
+#### Making an order:
+![bjdbjvbw](https://user-images.githubusercontent.com/61186198/207916690-e904b329-37e2-4fca-a866-0e4917c59644.png)
 
 The final qualifying work itself is located [here](https://cloud.mail.ru/public/KQzZ/RXsnXcznP).
 
