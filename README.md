@@ -51,9 +51,6 @@ Within the framework of the diplom project, it was proposed to improve the work 
 #### Shopping cart:
 ![ghhf](https://user-images.githubusercontent.com/61186198/207916614-3a127f26-548f-4215-aa42-17c8205fbea1.png)
 
-#### Total order amount:
-![rhurj](https://user-images.githubusercontent.com/61186198/207916649-0690ab0e-0ff2-4868-b90b-ad0c14c543ba.png)
-
 #### Making an order:
 ![bjdbjvbw](https://user-images.githubusercontent.com/61186198/207916690-e904b329-37e2-4fca-a866-0e4917c59644.png)
 
