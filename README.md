@@ -61,7 +61,7 @@ Dmitry V.S. Tools for the development of online stores // Student Bulletin: elec
 URL: https://www.elibrary.ru/item.asp?id=48048725
 
 ## Game project using several technologies (Java & Swing & C#)
-### JGames
+### JGames - Game app that is a collection of games
 As part of learning the Java 8 language and the Swing graphics library, I created several prototypes of well-known games, such as Minesweeper, Snake, Checkers, etc. Then, using the capabilities of Visual Studio and the C# language, previously implemented Java apps were integrated into an app written in C#, and you can also run any the app from it and which can be observed in the picture.
 
 ![apps](https://user-images.githubusercontent.com/61186198/176729764-10be83f8-d931-4c07-8531-afb480418716.png)
