@@ -23,6 +23,7 @@ Based on the last two languages, I have created a couple of simple gaming apps. 
 </p>
 
 ## Educational projects
+
 ### Educational (course) project (C#) - Algorith Li
 As part of studying the course "Programming and software of information technologies", I selected and formulated the topic of the course project: "Finding the shortest path in a random maze."
 
@@ -42,17 +43,18 @@ The coursework itself is located [here](https://cloud.mail.ru/public/pY23/NKTNW6
 
 Within the framework of the diplom project, it was proposed to improve the work of the advisory and educational center "Path to Health", which consisted in the development of an online store on any content management system (CMS). Among the huge list of CMS systems, CMS WordPress was chosen, which has a large number of various plugins for various purposes.
 
+
 #### The main page of the website:
 ![ftfy](https://user-images.githubusercontent.com/61186198/206910983-3f5fc3b7-b540-4519-8ef4-1115658bd768.png)
+
 
 #### List of products:
 ![fgf](https://user-images.githubusercontent.com/61186198/207916579-f9df4285-3f40-41c8-8d9e-3ce3ffba4486.png)
 
+
 #### Shopping cart:
 ![ghhf](https://user-images.githubusercontent.com/61186198/207916614-3a127f26-548f-4215-aa42-17c8205fbea1.png)
 
-#### Making an order:
-![bjdbjvbw](https://user-images.githubusercontent.com/61186198/207916690-e904b329-37e2-4fca-a866-0e4917c59644.png)
 
 The final qualifying work itself is located [here](https://cloud.mail.ru/public/KQzZ/RXsnXcznP).
 
@@ -61,6 +63,7 @@ Dmitry V.S. Tools for the development of online stores // Student Bulletin: elec
 URL: https://www.elibrary.ru/item.asp?id=48048725
 
 ## Game project using several technologies (Java & Swing & C#)
+
 ### JGames - Game app that is a collection of games
 As part of learning the Java 8 language and the Swing graphics library, I created several prototypes of well-known games, such as Minesweeper, Snake, Checkers, etc. Then, using the capabilities of Visual Studio and the C# language, previously implemented Java apps were integrated into an app written in C#, and you can also run any the app from it and which can be observed in the picture.
 
