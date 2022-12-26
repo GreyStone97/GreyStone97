@@ -36,15 +36,6 @@ I chose the C# programming language, since in my opinion this language allowed m
 More details can be found in the repository [here](https://github.com/GreyStone97/Algorith_Li).    
 The coursework itself is located [here](https://cloud.mail.ru/public/pY23/NKTNW6bje).  
 
-## Graduation project (WordPress) - Online store for the consultative and educational center "Path to health"
-
-Within the framework of the diplom project, it was proposed to improve the work of the advisory and educational center "Path to Health", which consisted in the development of an online store on any content management system (CMS). Among the huge list of CMS systems, CMS WordPress was chosen, which has a large number of various plugins for various purposes.
-
-### The main page of the website:
-![ftfy](https://user-images.githubusercontent.com/61186198/206910983-3f5fc3b7-b540-4519-8ef4-1115658bd768.png)
-
-The final qualifying work itself is located [here](https://cloud.mail.ru/public/KQzZ/RXsnXcznP).
-
 ## My scientific article: 
 Dmitry V.S. Tools for the development of online stores // Student Bulletin: electron. scientific. journal. 2022. No. 4(196). 
 URL: https://www.elibrary.ru/item.asp?id=48048725
