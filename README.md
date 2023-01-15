@@ -49,5 +49,5 @@ The project with all Java apps and the JGames app itself is located in the cloud
 
 ## 📈 GitHub Stats
 
-![DmirtriyStepanov GitHub Stats](https://github-readme-stats.vercel.app/api?username=GreyStone97&count_private=true&hide=contribs&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GreyStone97&count_private=true&hide=tsql&langs_count=7&theme=radical&layout=compact)
+![DmirtriyStepanov GitHub Stats](https://github-readme-stats-ruby-one.vercel.app/api?username=GreyStone97&count_private=true&hide=contribs&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=GreyStone97&count_private=true&hide=tsql&langs_count=7&theme=radical&layout=compact)
