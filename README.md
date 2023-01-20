@@ -27,8 +27,7 @@ As part of studying the course "Programming and software of information technolo
 In the course of this work, I have studied the theoretical aspects of finding the shortest path in a maze, where not only classical algorithms for generating mazes themselves, but also algorithms for finding the shortest path are considered.
 Among the algorithms considered for finding the shortest path, a wave algorithm was chosen, which is also referred to in the literature as the Lie algorithm.
 
-![screeng](https://user-images.githubusercontent.com/61186198/207915084-93d93d08-0111-4b81-b107-dba8861aa1b1.png)
-![Screenshot](https://user-images.githubusercontent.com/61186198/207913961-6b1d43b0-745b-42f4-82f5-c1ec6c64ffff.png)
+![Li_alghroritm](https://user-images.githubusercontent.com/61186198/213748225-3e8919a5-ee82-4ad2-a85b-a4e062f7c4d6.gif)
 
 It was proposed to implement this algorithm in object-oriented languages such as Python, C++, C#.
 I chose the C# programming language, since in my opinion this language allowed me to implement it in a more convenient and concise form, unlike "hard" such as C++. Python was not considered due to the fact that this moment was not studied well, like C#.
