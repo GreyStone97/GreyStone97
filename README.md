@@ -8,7 +8,6 @@ Based on the last two languages, I have created a couple of simple gaming apps. 
 ### Tech Stack:
 
 <p>
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="64" height="64"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="64" height="64"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="64" height="64"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="64" height="64"/>&nbsp; 
@@ -38,13 +37,6 @@ The coursework itself is located [here](https://cloud.mail.ru/public/pY23/NKTNW6
 ## My scientific article: 
 Dmitry V.S. Tools for the development of online stores // Student Bulletin: electron. scientific. journal. 2022. No. 4(196). 
 URL: https://www.elibrary.ru/item.asp?id=48048725
-
-### JGames - Game app that is a collection of games (Java & Swing & C#)
-As part of learning the Java 8 language and the Swing graphics library, I created several prototypes of well-known games, such as Minesweeper, Snake, Checkers, etc. Then, using the capabilities of Visual Studio and the C# language, previously implemented Java apps were integrated into an app written in C#, and you can also run any the app from it and which can be observed in the picture.
-
-![apps](https://user-images.githubusercontent.com/61186198/176729764-10be83f8-d931-4c07-8531-afb480418716.png)
-
-The project with all Java apps and the JGames app itself is located in the cloud storage: [here](https://cloud.mail.ru/public/AYXh/ADBDehBxZ)
 
 ## 📈 GitHub Stats
 
