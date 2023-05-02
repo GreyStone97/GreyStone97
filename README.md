@@ -1,11 +1,9 @@
-## About me
+## Обо мне
 
-My name is Dmitry, I am 25 years old. I have been studying programming since 2013. For some time since 2013 and up to the present time, 
-I have studied different programming languages, such as C, C++, C#, Java and others. 
+Меня зовут Дмитрий, мне 26 лет. Я изучаю программирование с 2013 года. В течение некоторого времени, начиная с 2013 года и по настоящее время,
+Я изучал различные языки программирования, такие как C, C++, C#, Java и другие.
 
-Based on the last two languages, I have created a couple of simple gaming apps. At the moment, I have completed some pet projects using different technologies.
-
-### Tech Stack:
+###  Cтек:
 
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="64" height="64"/>&nbsp;
@@ -20,25 +18,25 @@ Based on the last two languages, I have created a couple of simple gaming apps. 
 <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="64" height="64"/>&nbsp;
 </p>
 
-## Educational (course) project (C#) - Algorith Li
-As part of studying the course "Programming and software of information technologies", I selected and formulated the topic of the course project: "Finding the shortest path in a random maze."
+## Курсовой проект (C#) - Алгоритм Ли
+В рамках изучения курса "Программирование и программное обеспечение информационных технологий" я выбрал и сформулировал тему курсового проекта: "Поиск кратчайшего пути в случайном лабиринте".
 
-In the course of this work, I have studied the theoretical aspects of finding the shortest path in a maze, where not only classical algorithms for generating mazes themselves, but also algorithms for finding the shortest path are considered.
-Among the algorithms considered for finding the shortest path, a wave algorithm was chosen, which is also referred to in the literature as the Lie algorithm.
+В ходе этой работы я изучил теоретические аспекты поиска кратчайшего пути в лабиринте, где рассматриваются не только классические алгоритмы генерации самих лабиринтов, но и алгоритмы поиска кратчайшего пути.
+Среди рассмотренных алгоритмов нахождения кратчайшего пути был выбран волновой алгоритм, который также упоминается в литературе как алгоритм Ли.
 
 ![Li_alghroritm](https://user-images.githubusercontent.com/61186198/213748225-3e8919a5-ee82-4ad2-a85b-a4e062f7c4d6.gif)
 
-It was proposed to implement this algorithm in object-oriented languages such as Python, C++, C#.
-I chose the C# programming language, since in my opinion this language allowed me to implement it in a more convenient and concise form, unlike "hard" such as C++. Python was not considered due to the fact that this moment was not studied well, like C#.
+Было предложено реализовать этот алгоритм на объектно-ориентированных языках, таких как Python, C++, C#.
+Я выбрал язык программирования C#, так как, на мой взгляд, этот язык позволил мне реализовать его в более удобной и лаконичной форме, в отличие от "жесткого" типа C++. Python не рассматривался из-за того, что этот момент был изучен недостаточно хорошо, как и C#.
 
-More details can be found in the repository [here](https://github.com/GreyStone97/Algorith_Li).    
-The coursework itself is located [here](https://cloud.mail.ru/public/pY23/NKTNW6bje).  
+Более подробную информацию можно найти в репозитории [здесь](https://github.com/GreyStone 97/Algorithm_Li).
+Сама курсовая работа находится [здесь](https://cloud.mail.ru/public/pY23/NKTNW6bje ).
 
-## My scientific article: 
-Dmitry V.S. Tools for the development of online stores // Student Bulletin: electron. scientific. journal. 2022. No. 4(196). 
+## Моя научная статья:
+Степанов Д.В. Инструменты для разработки интернет-магазинов // Студенческий вестник: электрон. научный. журнал. 2022. № 4(196).
 URL: https://www.elibrary.ru/item.asp?id=48048725
 
-## 📈 GitHub Stats
+## 📈 Статистика на GitHub
 
 ![DmirtriyStepanov GitHub Stats](https://github-readme-stats.vercel.app/api?username=GreyStone97&count_private=true&hide=contribs&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GreyStone97&count_private=true&hide=tsql&langs_count=7&theme=radical&layout=compact)
