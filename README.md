@@ -1,22 +1,9 @@
 ## Обо мне
 
-Меня зовут Дмитрий, мне 26 лет. Я изучаю программирование с 2013 года. В течение некоторого времени, начиная с 2013 года и по настоящее время,
-я изучал различные языки программирования, такие как C, C++, C#, Java и другие.
+Меня зовут Дмитрий и мне 26 лет. Я изучаю программирование с 2013 года. В течение некоторого времени, начиная с 2013 года и по настоящее время, я изучал различные языки программирования, такие как C, C++, C#, Java и другие.
 
 ###  Cтек:
 
-<p>
-<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="64" height="64"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="64" height="64"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="64" height="64"/>&nbsp; 
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="64" height="64"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="64" height="64"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="64" height="64"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="64" height="64"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" title="Bootstrap" alt="Bootstrap" width="64" height="64"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwind" alt="Tailwind" width="64" height="64"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="64" height="64"/>&nbsp;
-</p>
 
 ## Курсовой проект (C#) - Алгоритм Ли
 В рамках изучения курса "Программирование и программное обеспечение информационных технологий" я выбрал и сформулировал тему курсового проекта: "Поиск кратчайшего пути в случайном лабиринте".
@@ -27,10 +14,10 @@
 ![Li_alghroritm](https://user-images.githubusercontent.com/61186198/213748225-3e8919a5-ee82-4ad2-a85b-a4e062f7c4d6.gif)
 
 Было предложено реализовать этот алгоритм на объектно-ориентированных языках, таких как Python, C++, C#.
-Я выбрал язык программирования C#, так как, на мой взгляд, этот язык позволил мне реализовать его в более удобной и лаконичной форме, в отличие от "жесткого" типа C++. Python не рассматривался из-за того, что этот момент был изучен недостаточно хорошо, как и C#.
+Я выбрал язык программирования C#, так как, на мой взгляд, этот язык позволил мне реализовать его в более удобной и лаконичной форме, в отличие от такого языка, как C++. Python не рассматривался из-за того, что в момент разработки, был изучен недостаточно хорошо, как и C#.
 
-Более подробную информацию можно найти в репозитории [здесь](https://github.com/GreyStone 97/Algorithm_Li).
-Сама курсовая работа находится [здесь](https://cloud.mail.ru/public/pY23/NKTNW6bje ).
+Более подробную информацию можно найти в репозитории [здесь](https://github.com/GreyStone97/Algorithm_Li).
+Сама курсовая работа находится [здесь](https://cloud.mail.ru/public/pY23/NKTNW6bje).
 
 ## Моя научная статья:
 Степанов Д.В. Инструменты для разработки интернет-магазинов // Студенческий вестник: электрон. научный. журнал. 2022. № 4(196).
